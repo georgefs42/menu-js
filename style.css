@@ -4,7 +4,7 @@
 /* VARIABLES */
 :root {
   --bg-color: #fff;
-  --link-color: #000;
+  --link-color: blue;
   --link-size: 1.1rem;
   --right-side-bg-color: 81, 187, 254;
 }
